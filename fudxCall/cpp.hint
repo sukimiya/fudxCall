@@ -1,0 +1,2 @@
+#define FUDXCALL_API __declspec(dllexport)
+#define FUDXCALL_API __declspec(dllimport)
